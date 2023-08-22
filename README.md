@@ -1,1 +1,2 @@
 # printf
+partner is present
